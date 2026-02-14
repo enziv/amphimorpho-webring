@@ -44,4 +44,9 @@ export default [
     name: "aMaxphous",
     url: "https://amaxphous.neocities.org/"
   },
+  {
+    id: "enzi",
+    name: "Enzi",
+    url: "https://enziv.xyz/"
+  },
 ];
